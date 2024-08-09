@@ -1,5 +1,5 @@
 module.exports = {
-  ownerID: 'YOUR_OWNER_ID',
+  ownerID: '695719063191814204',
   token: process.env.TOKEN,
   embedColor: '#FF0000',
   geniusToken: '0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf',
